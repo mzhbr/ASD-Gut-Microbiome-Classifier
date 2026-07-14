@@ -55,10 +55,10 @@ which bacteria matter.
 ## Visualizations
 
 ### Top 20 Most Important Bacteria
-![Bacteria Importance](bacteria_importance.png)
+![Bacteria Importance](https://github.com/mzhbr/ASD-Gut-Microbiome-Classifier/blob/main/Figure_1.png)
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix_asd.png)
+![Confusion Matrix](https://github.com/mzhbr/ASD-Gut-Microbiome-Classifier/blob/main/Figure_2.png)
 
 ## Tech Stack
 
