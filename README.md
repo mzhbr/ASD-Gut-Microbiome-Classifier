@@ -69,14 +69,6 @@ which bacteria matter.
 | scikit-learn | Random Forest, cross-validation, feature selection |
 | matplotlib / seaborn | Visualization |
 
-## How to Run
-
-```bash
-git clone https://github.com/mzhbr/asd-microbiome-classifier
-cd asd-microbiome-classifier
-pip install -r requirements.txt
-python main.py
-```
 
 ## Dataset
 
