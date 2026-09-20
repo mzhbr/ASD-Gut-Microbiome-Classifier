@@ -16,7 +16,7 @@ between ASD and neurotypical individuals. The gut-brain axis — the
 bidirectional communication between gut bacteria and the brain — may 
 play a role in ASD development.
 
-This project asks: **can we classify ASD from gut bacteria alone?**
+This project asks: **Can gut microbiome profiles distinguish ASD from control samples in a small public dataset?**
 
 ## Answer: 77% Cross-Validated Accuracy
 
@@ -40,7 +40,7 @@ Feature Importance Analysis
 
 ## Key Biological Finding
 
-The model identified clinically meaningful bacterial signatures:
+The model identified Several taxa appeared among the most important features in the trained model. These findings should be interpreted as dataset-specific associations rather than causal or clinically validated biomarkers.
 
 | Bacteria | Known ASD Association |
 |----------|----------------------|
@@ -75,6 +75,10 @@ which bacteria matter.
 Human Gut Microbiome with ASD — available on Kaggle.  
 60 subjects (30 ASD, 30 neurotypical controls).  
 16S rRNA gene sequencing, OTU-level resolution.
+
+## Limitations
+
+This analysis is based on a small public dataset containing 60 subjects. Therefore, the reported performance should not be interpreted as evidence of clinical diagnostic utility. Results may also be sensitive to cohort characteristics, sequencing protocols, preprocessing choices, and dataset-specific patterns. External validation on an independent cohort would be required to assess generalizability.
 
 ## Why This Matters
 
